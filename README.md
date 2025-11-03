@@ -5,7 +5,7 @@
 - Sensor pH air
 - Sensor intensitas cahaya matahari
 
-### ⚙️ Fitur Utama
+### Fitur Utama
 
 | Fitur | Deskripsi |
 |-------|------------|
