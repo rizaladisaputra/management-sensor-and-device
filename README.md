@@ -1,4 +1,4 @@
-## 🎯 Monitoring Device IoT untuk Pertanian
+## Monitoring Device IoT untuk Pertanian
 **Stack:** Java + Quarkus (Java 17, JDK 17, Hibernate ORM, Scheduler)
 - Sensor suhu & kelembapan tanah
 - Sensor curah hujan
